@@ -7,3 +7,4 @@ Introdução a Python - UERJ
 * Aula 04 - Funções (parte 2)
 * Aula 05 - Turtle, loop for, encapsulamento, generalização e refatoração.
 * Aula 06 - Condicionais.
+* Aula 07 - Iteração.
