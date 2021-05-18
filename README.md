@@ -8,3 +8,4 @@ Introdução a Python - UERJ
 * Aula 05 - Turtle, loop for, encapsulamento, generalização e refatoração.
 * Aula 06 - Condicionais.
 * Aula 07 - Iteração.
+* Aula 08 - Strings e listas.
