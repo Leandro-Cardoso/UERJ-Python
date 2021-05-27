@@ -9,3 +9,4 @@ Introdução a Python - UERJ
 * Aula 06 - Condicionais.
 * Aula 07 - Iteração.
 * Aula 08 - Strings e listas.
+* Aula 09 - Listas, módulos e arquivos.
